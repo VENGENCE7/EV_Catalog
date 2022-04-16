@@ -32,7 +32,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "../images/Energica.jpg",
+    image: "images/Energica.jpg",
     name: "Energica EGO+",
     category: "Sport Bikes",
     price: "₹ 14,00,000 – ₹ 16,50,000",
@@ -43,7 +43,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/Lightining_LS218.jpg",
+    image: "images/Lightining_LS218.jpg",
     name: "Lightning LS-218",
     category: "Sport Bikes",
     price: "₹ 30,00,000 – ₹ 35,16,000",
@@ -53,7 +53,7 @@ const Menu = [
   },
   {
     id: 6,
-    image: "../images/Arc_Vector.jpg",
+    image: "images/Arc_Vector.jpg",
     name: "Arc Vector",
     category: "Sport Bikes",
     price: "₹ 82,00,000",
@@ -63,7 +63,7 @@ const Menu = [
   },
   {
     id: 7,
-    image: "../images/Ather_450X.jpg",
+    image: "images/Ather_450X.jpg",
     name: "Ather 450X",
     category: "Scooters",
     price: " ₹ 1,40,280 ",
@@ -73,7 +73,7 @@ const Menu = [
   },
   {
     id: 8,
-    image: "../images/Ola-S1-Pro.jpg",
+    image: "images/Ola-S1-Pro.jpg",
     name: "OLA S1 Pro",
     category: "Scooters",
     price: " ₹ 1,27,670",
@@ -83,7 +83,7 @@ const Menu = [
   },
   {
     id: 9,
-    image: "../images/TVS_iQube.jpg",
+    image: "images/TVS_iQube.jpg",
     name: "TVS iQube",
     category: "Scooters",
     price: " ₹ 1,00,752",
@@ -93,7 +93,7 @@ const Menu = [
   },
   {
     id: 10,
-    image: "../images/Tata.jpg",
+    image: "images/Tata.jpg",
     name: "Tata Nexon EV",
     category: "Cars",
     price: "₹ 14,54,000 - ₹ 17,15,000",
@@ -103,7 +103,7 @@ const Menu = [
   },
   {
     id: 11,
-    image: "../images/Hyundai.jpg",
+    image: "images/Hyundai.jpg",
     name: "Hyundai Kona",
     category: "Cars",
     price: "₹ 23,79,000 - ₹ 23,97,000",
@@ -113,7 +113,7 @@ const Menu = [
   },
   {
     id: 12,
-    image: "../images/MC_SE.jpg",
+    image: "images/MC_SE.jpg",
     name: "MINI Cooper SE",
     category: "Cars",
     price: "₹ 47,20,000",
@@ -123,7 +123,7 @@ const Menu = [
   },
   {
     id: 13,
-    image: "../images/Merce.jpg",
+    image: "images/Merce.jpg",
     name: "Mercedes-Benz EQC ",
     category: "Cars",
     price: "₹ 99,50,000",
@@ -133,7 +133,7 @@ const Menu = [
   },
   {
     id: 14,
-    image: "../images/Porsche.jpg",
+    image: "images/Porsche.jpg",
     name: " Porsche Taycan/ 4S/ S/ Turbo S ",
     category: "Cars",
     price: "₹ 1,50,00,000 - ₹ 2,10,00,000",
@@ -144,7 +144,7 @@ const Menu = [
   },
   {
     id: 15,
-    image: "../images/Audi.jpg",
+    image: "images/Audi.jpg",
     name: "Audi RS e-tron GT",
     category: "Cars",
     price: "₹ 2,05,00,000",
@@ -155,7 +155,7 @@ const Menu = [
   },
   {
     id: 16,
-    image: "../images/Tesla_Y.jpg",
+    image: "images/Tesla_Y.jpg",
     name: "Tesla Model Y",
     category: "Tesla",
     price: "₹ 70,00,000",
@@ -165,7 +165,7 @@ const Menu = [
   },
   {
     id: 17,
-    image: "../images/Tesla_S.jpg",
+    image: "images/Tesla_S.jpg",
     name: "Tesla Model S",
     category: "Tesla",
     price: "₹ 1,50,00,000",
@@ -175,7 +175,7 @@ const Menu = [
   },
   {
     id: 18,
-    image: "../images/Tesla_X.jpg",
+    image: "images/Tesla_X.jpg",
     name: "Tesla Model X",
     category: "Tesla",
     price: "₹ 2,00,00,000",
@@ -186,7 +186,7 @@ const Menu = [
   /* API template
   {
     id: 9,
-    image: "../images/.jpg",
+    image: "images/.jpg",
     name: "",
     category: "",
     price: "₹",
