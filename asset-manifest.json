@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EV_Catalog/static/css/main.56b2d3cd.css",
-    "main.js": "/EV_Catalog/static/js/main.ab560270.js",
+    "main.css": "/EV_Catalog/static/css/main.cf32d5eb.css",
+    "main.js": "/EV_Catalog/static/js/main.d360000d.js",
     "index.html": "/EV_Catalog/index.html",
-    "main.56b2d3cd.css.map": "/EV_Catalog/static/css/main.56b2d3cd.css.map",
-    "main.ab560270.js.map": "/EV_Catalog/static/js/main.ab560270.js.map"
+    "main.cf32d5eb.css.map": "/EV_Catalog/static/css/main.cf32d5eb.css.map",
+    "main.d360000d.js.map": "/EV_Catalog/static/js/main.d360000d.js.map"
   },
   "entrypoints": [
-    "static/css/main.56b2d3cd.css",
-    "static/js/main.ab560270.js"
+    "static/css/main.cf32d5eb.css",
+    "static/js/main.d360000d.js"
   ]
 }
