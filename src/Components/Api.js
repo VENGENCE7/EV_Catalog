@@ -9,16 +9,15 @@ const Menu = [
       "Revolt RV 400 is an electric street bike available at a starting price of Rs. 1,10,831 in India. It is available in 2 variants and 3 colours with top variant price starting from Rs. 1,24,060. Revolt RV 400 generates 3000 W power from its motor. With both front and rear disc brakes, Revolt RV 400 comes up with combined braking system of both wheels.You can even swap the battery at the Revolt Swap Station .",
     wlink: "https://www.revoltmotors.com/rv400",
   },
-
   {
     id: 2,
-    image: "images/TVS_Zeppelin.jpg",
-    name: "TVS Zeppelin",
+    image: "images/Oben.jpg",
+    name: "Oben Rorr",
     category: "Bikes",
-    price: " ₹  1,14,999 - ₹ 1,25,000",
+    price: " ₹  1,02,000",
     description:
-      "TVS Zeppelin is expected to launch in India in July 2022 in the expected price range of ₹ 1,14,999 to ₹ 1,25,000. Currently available Bikes which are similar to Zeppelin are Bajaj Avenger Street 160, Bajaj Avenger Cruise 220 & Hero Xpulse 200T. Another bike similar to Zeppelin is Yamaha XSR 155 which is launching in December 2022 in India.",
-    wlink: "https://www.bikedekho.com/tvs/zeppelin",
+      "Oben Rorr is equipped with an all-LED lighting system, and a fully digital instrument cluster with smartphone connectivity. Using the latter, users can access functions including predictive maintenance, ride details, battery status, geo-fencing, geo-tagging, charging station locator, on-demand service, and roadside assistance.It can accelerate from 0-40kmph in 3s wth a top speed of 100kmph.",
+    wlink: "https://www.obenev.com/",
   },
   {
     id: 3,
@@ -73,7 +72,7 @@ const Menu = [
   },
   {
     id: 8,
-    image: "images/Ola-S1-Pro.jpg",
+    image: "images/Ola.jpg",
     name: "OLA S1 Pro",
     category: "Scooters",
     price: " ₹ 1,27,670",
