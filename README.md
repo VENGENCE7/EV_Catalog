@@ -16,6 +16,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
   <a href="https://github.com/VENGENCE7/EV_Catalog">
     <img src="public/EV.ico" alt="Logo" width="250" height="250">
@@ -36,9 +37,10 @@
   </p>
 </div>
 
+# Preview
+![EV_Catalog](https://user-images.githubusercontent.com/86911386/164911226-7cd6ca53-b3f0-4b71-bd6e-1e0bf8d9fc22.png)
 
-
-# Getting Started with Create React App
+# Getting Started 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
