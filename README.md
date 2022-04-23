@@ -1,3 +1,43 @@
+<div id="top"></div>
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GPL3 License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/VENGENCE7/EV_Catalog">
+    <img src="public/EV.ico" alt="Logo" width="300" height="200">
+  </a>
+
+<h3 align="center">EV_Catalog</h3>
+
+  <p align="center">
+    This is a website-catalog of various electric vehicles of the world.Its developed using reactjs.Easily display more data by adding it to the api and it shall automatically be displayed on the webpage.It also automatically recognizes the different category and displays it in the bar.
+    <br />
+    <br />
+    <a href="https://vengence7.github.io/EV_Catalog/"><strong> << View Deployment >></strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Report Bug</a>
+     : 
+    <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +108,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/VENGENCE7/EV_Catalog.svg?style=for-the-badge
+[contributors-url]: https://github.com/VENGENCE7/EV_Catalog/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/VENGENCE7/EV_Catalog.svg?style=for-the-badge
+[forks-url]: https://github.com/VENGENCE7/EV_Catalog/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/VENGENCE7/EV_Catalog.svg?style=for-the-badge
+[stars-url]: https://github.com/VENGENCE7/EV_Catalog/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/VENGENCE7/EV_Catalog.svg?style=for-the-badge
+[issues-url]: https://github.com/VENGENCE7/EV_Catalog/issues
+
+[license-shield]: https://img.shields.io/github/license/VENGENCE7/EV_Catalog.svg?style=for-the-badge
+[license-url]: https://github.com/VENGENCE7/EV_Catalog/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/bhavish-anand-2113a6206
