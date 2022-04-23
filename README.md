@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VENGENCE7/EV_Catalog">
-    <img src="public/EV.ico" alt="Logo" width="300" height="200">
+    <img src="public/EV.ico" alt="Logo" width="250" height="250">
   </a>
 
 <h3 align="center">EV_Catalog</h3>
