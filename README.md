@@ -126,7 +126,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [issues-url]: https://github.com/VENGENCE7/EV_Catalog/issues
 
 [license-shield]: https://img.shields.io/github/license/VENGENCE7/EV_Catalog.svg?style=for-the-badge
-[license-url]: https://github.com/VENGENCE7/EV_Catalog/blob/master/LICENSE.txt
+[license-url]: https://github.com/VENGENCE7/EV_Catalog/blob/main/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bhavish-anand-2113a6206
