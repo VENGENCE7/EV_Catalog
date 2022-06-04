@@ -12,6 +12,8 @@
 [![BSD3 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+[![Vercel][Vercel-shield]][Vercel-url]
+[![GH-Pages][GH-Pages-shield]][GH-Pages-url]
 
 
 <!-- PROJECT LOGO -->
@@ -38,7 +40,8 @@
 </div>
 
 # Preview
-![EV_Catalog](https://user-images.githubusercontent.com/86911386/164911226-7cd6ca53-b3f0-4b71-bd6e-1e0bf8d9fc22.png)
+![EV_Catalog](https://user-images.githubusercontent.com/86911386/171997165-b5d4c2c4-654b-4f08-b115-2295a337447c.png)
+
 
 # Getting Started 
 
@@ -132,3 +135,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bhavish-anand-2113a6206
+
+
+[Vercel-shield]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]:  https://ev-catalog.vercel.app
+
+[GH-Pages-shield]:https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+[GH-Pages-url]: https://vengence7.github.io/EV_Catalog/
