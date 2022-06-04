@@ -114,6 +114,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the BSD-3 License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Bhavish Anand- bhavish007anand@gmail.com
+
+Project Link: [https://github.com/VENGENCE7/EV_Catalog](https://github.com/VENGENCE7/EV_Catalog)
+
+Github Profile : [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
