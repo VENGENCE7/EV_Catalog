@@ -39,6 +39,8 @@
     <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Report Bug</a>
      : 
     <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Request Feature</a>
+      :
+    <a href="#contact">Contact me</a>
   </p>
 </div>
 
