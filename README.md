@@ -36,7 +36,7 @@
     <br />
     <a href="https://ev-catalog.vercel.app"><strong> << Vercel Deployment >></strong></a>
     <br />
-     <br />
+    <br />
     <a href="https://ev-catalog.netlify.app/"><strong> << Netlify Deployment >></strong></a>
     <br />
     <br />
@@ -176,4 +176,4 @@ Github Profile : [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
 [GH-Pages-url]: https://vengence7.github.io/EV_Catalog/
 
 [Netlify-shield]:https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-[Netlify-url]:https://ev-catalog.netlify.app/
+[Netlify-url]:https://wordle-un-limited.netlify.app/
