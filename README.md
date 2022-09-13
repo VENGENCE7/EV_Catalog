@@ -36,6 +36,9 @@
     <br />
     <a href="https://ev-catalog.vercel.app"><strong> << Vercel Deployment >></strong></a>
     <br />
+     <br />
+    <a href="https://ev-catalog.netlify.app/"><strong> << Netlify Deployment >></strong></a>
+    <br />
     <br />
     <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Report Bug</a>
      : 
